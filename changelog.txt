@@ -1,0 +1,2 @@
+1.0.1
+- Updated Qode Framework plugin to 1.1.8
